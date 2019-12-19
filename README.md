@@ -9,8 +9,9 @@ The project for testing e-commerce site selling toys available at "https://www.z
 * Adding products from the cart
 * Removing products to the cart
 * Checkout process
+
 Project requires Windows OS and NodeJS + NPM(Node Package Manager), Firefox browser to be installed.
 
-Download project zip file to the desired directory.
+Download project zip file to the desired directory. Run "npm install" in command promt to install node moduls.
 
-Running tests From the project folder open command promt and type "npm test".
+Running tests: from the project folder open command promt and type "npm test".
