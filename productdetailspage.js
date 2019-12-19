@@ -19,9 +19,8 @@ class ProductDetailsPage extends BasePage {
             await  addToCartButton.click();
         }
         catch (e){
-           // console.error("Tried to click elemet: " + e);
+            console.error("Tried to click elemet: " + e);
             await driver.executeScript("arguments[0].click();", addToCartButton)
-           //  console.log ("after Tried to click elemet: " );
         }
      }
     
