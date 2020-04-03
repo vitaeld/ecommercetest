@@ -7,7 +7,7 @@ The project for testing e-commerce site selling toys available at "https://www.z
 * Login
 * Searching products by three criteria
 * Adding products from the cart
-* Removing products to the cart
+* Removing products from the cart
 * Checkout process
 
 Project requires Windows OS and NodeJS + NPM(Node Package Manager), Firefox browser to be installed.
